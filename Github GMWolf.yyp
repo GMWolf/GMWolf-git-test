@@ -197,6 +197,14 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "f8df8336-8ec0-4a04-a17c-8729f00566b5",
+            "Value": {
+                "id": "13085d34-bc7b-46d5-8e72-ea8d08971b51",
+                "resourcePath": "objects\\obj_test\\obj_test.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
